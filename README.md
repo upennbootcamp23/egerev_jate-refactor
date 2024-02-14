@@ -1,8 +1,7 @@
-# Alex Egerev's Code-Ified Social Media Project
+# Just another Text Editor by Alexander E.
 
-![image](https://github.com/upennbootcamp23/egerev_social-media-project/assets/143010411/55bddd49-131d-4efd-8b4a-2033d8133fa3)
-![image](https://github.com/upennbootcamp23/egerev_social-media-project/assets/143010411/caf52cf2-234e-4e10-95c3-92dcc4b6a01c)
-![image](https://github.com/upennbootcamp23/egerev_social-media-project/assets/143010411/7c5b33df-4060-4e88-8873-1c3e0616043e)
+![image](https://github.com/upennbootcamp23/egerev_jate-refactor/assets/143010411/f6062803-0737-4788-9127-6869e58707c5)
+
 
 
 ## Description
